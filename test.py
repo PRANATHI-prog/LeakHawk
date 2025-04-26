@@ -1,0 +1,2 @@
+# secret_test.py
+AWS_KEY = "AKIAEXAMPLELEAK12345678"
