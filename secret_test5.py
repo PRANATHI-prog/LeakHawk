@@ -1,0 +1,1 @@
+GOOGLE_KEY_2 = "AIzaSyBtY1Nmf-XEyrZwTbF-pKcSl6U_dQrBvFk"
